@@ -38,4 +38,5 @@ Based on the tutorial: [How to Build an AI Stock Analysis Agent](https://www.you
 3. Import the workflow templates
 4. Test with any stock ticker (e.g., "Tesla", "Apple")
 
-*Perfect for traders and investors who want AI-powered stock analysis combining technical indicators with market sentiment.*
+![Workflow Overview](./screenshots/Screenshot\ 2025-07-14\ at\ 17.21.05.png)
+![Agent Output](./screenshots/Screenshot\ 2025-07-14\ at\ 17.21.13.png)
